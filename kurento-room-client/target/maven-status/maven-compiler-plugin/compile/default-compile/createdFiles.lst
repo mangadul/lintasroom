@@ -1,0 +1,15 @@
+org/kurento/room/client/internal/ParticipantJoinedInfo.class
+org/kurento/room/client/internal/RoomClosedInfo.class
+org/kurento/room/client/internal/JsonRoomUtils.class
+org/kurento/room/client/internal/SendMessageInfo.class
+org/kurento/room/client/ServerJsonRpcHandler.class
+org/kurento/room/client/KurentoRoomClient.class
+org/kurento/room/client/internal/ParticipantPublishedInfo.class
+org/kurento/room/client/internal/ParticipantEvictedInfo.class
+org/kurento/room/client/internal/ParticipantLeftInfo.class
+org/kurento/room/client/internal/Notification.class
+org/kurento/room/client/internal/ParticipantUnpublishedInfo.class
+org/kurento/room/client/KurentoRoomClient$1.class
+org/kurento/room/client/internal/MediaErrorInfo.class
+org/kurento/room/client/internal/Notification$Method.class
+org/kurento/room/client/internal/IceCandidateInfo.class

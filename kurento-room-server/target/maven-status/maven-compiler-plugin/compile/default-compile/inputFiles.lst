@@ -1,0 +1,14 @@
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/rest/RoomController.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/KurentoRoomServerApp.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/rpc/JsonRpcUserControl.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/rpc/JsonRpcNotificationService.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/kms/LoadManager.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/RoomJsonRpcHandler.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/rpc/ParticipantSession.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/kms/KmsManager.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/kms/MaxWebRtcLoadManager.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/kms/FixedOneKmsManager.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/AutodiscoveryKurentoClientProvider.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/kms/Kms.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/rpc/SessionWrapper.java
+/home/mangadul/kurento/kurento-room/kurento-room-server/src/main/java/org/kurento/room/internal/ThreadLogUtils.java

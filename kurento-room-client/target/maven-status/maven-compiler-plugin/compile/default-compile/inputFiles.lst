@@ -1,0 +1,13 @@
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/SendMessageInfo.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/ParticipantEvictedInfo.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/ParticipantUnpublishedInfo.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/ParticipantPublishedInfo.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/Notification.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/ServerJsonRpcHandler.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/ParticipantLeftInfo.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/KurentoRoomClient.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/ParticipantJoinedInfo.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/MediaErrorInfo.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/RoomClosedInfo.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/IceCandidateInfo.java
+/home/mangadul/kurento/kurento-room/kurento-room-client/src/main/java/org/kurento/room/client/internal/JsonRoomUtils.java

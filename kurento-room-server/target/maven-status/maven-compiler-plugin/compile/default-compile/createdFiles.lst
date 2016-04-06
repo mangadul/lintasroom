@@ -1,0 +1,15 @@
+org/kurento/room/kms/KmsManager$KmsLoad.class
+org/kurento/room/rest/RoomController.class
+org/kurento/room/rpc/ParticipantSession.class
+org/kurento/room/rpc/JsonRpcUserControl.class
+org/kurento/room/kms/LoadManager.class
+org/kurento/room/kms/Kms.class
+org/kurento/room/kms/MaxWebRtcLoadManager.class
+org/kurento/room/rpc/SessionWrapper.class
+org/kurento/room/KurentoRoomServerApp.class
+org/kurento/room/kms/FixedOneKmsManager.class
+org/kurento/room/rpc/JsonRpcNotificationService.class
+org/kurento/room/RoomJsonRpcHandler.class
+org/kurento/room/internal/ThreadLogUtils.class
+org/kurento/room/kms/KmsManager.class
+org/kurento/room/AutodiscoveryKurentoClientProvider.class
